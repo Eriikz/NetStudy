@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "WIo/uMOTHSPjigxBPzk7N7aP/gvxTrbkSeroGEJ9/zN9bWswqMmAHoCSgapzQ0H6Y9lXX17+t0SLN6F5eRJmtQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\019268631\\Desktop\\Tecnologia\\NetStudy\\NetStudy\\NetStudy.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\019268631\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
+    "C:\\Users\\019268631\\.nuget\\packages\\unity\\5.11.10\\unity.5.11.10.nupkg.sha512"
+  ],
+  "logs": []
+}
