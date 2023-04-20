@@ -6,28 +6,37 @@ namespace NetStudy
         private static void Main()
         {
 
-            Factory();
+            Tuplas();
 
 
+
+            #region C#
+
+            static void Tuplas()
+            {
+                var run = new C.Tuplas.Tuplas();
+                run.Exibir();
+            }
+            #endregion
 
 
             #region POO
 
             static void Composicao()
             {
-                var run = new POO.Composicao.Run(); 
-                run.Exibir(); 
+                var run = new POO.Composicao.Run();
+                run.Exibir();
             }
 
             static void Interface()
             {
-                var run = new POO.Interface.Run(); 
+                var run = new POO.Interface.Run();
                 run.Exibir();
             }
 
             static void Delegates()
             {
-                var run = new POO.Delegates.Run(); 
+                var run = new POO.Delegates.Run();
                 run.Exibir();
             }
 
