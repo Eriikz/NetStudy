@@ -13,9 +13,6 @@ namespace NetStudy.C.Tuplas
         /// </summary>
         public void Exibir()
         {
-            // Exemplo de tupla representando um par (nome, idade)
-            var pessoa1 = Tuple.Create("João", 30);
-            Console.WriteLine($"Nome: {pessoa1.Item1}, Idade: {pessoa1.Item2}");
 
             // Exemplo de tupla representando um trio (nome, idade, cidade)
             var pessoa2 = Tuple.Create("Maria", 25, "São Paulo");

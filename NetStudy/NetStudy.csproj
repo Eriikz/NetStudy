@@ -8,11 +8,25 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="7.0.5" />
+    <PackageReference Include="NUnit" Version="3.13.3" />
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.5" />
     <PackageReference Include="Unity" Version="5.11.10" />
   </ItemGroup>
 
   <ItemGroup>
     <Folder Include="Clean Achtecture\" />
+    <Folder Include="C\Class\Abstract\" />
+    <Folder Include="C\Frameworks\Fila\Kafka\" />
+    <Folder Include="C\Frameworks\ORM\EntityFramework\" />
+    <Folder Include="C\Frameworks\ORM\Dapper\" />
+    <Folder Include="C\Frameworks\ORM\" />
+    <Folder Include="C\Frameworks\Teste\MSTest\" />
+    <Folder Include="C\Frameworks\Teste\XUnit\" />
+    <Folder Include="C\Frameworks\Fila\RabbitMQ\" />
+    <Folder Include="Design Pattern\DAO\" />
+    <Folder Include="Design Pattern\MVVM\" />
+    <Folder Include="Design Pattern\MVC\" />
   </ItemGroup>
 
 </Project>
